@@ -86,13 +86,18 @@ MediSense/
 git clone https://github.com/shubhamjais04/MediSense.git
 cd MediSense
 
-# 2. Install dependencies
+# 2. Create and activate virtual environment
+python -m venv venv
+venv\Scripts\activate        # Windows
+source venv/bin/activate     # Mac/Linux
+
+# 3. Install dependencies
 pip install -r requirements.txt
 
-# 3. (Optional) Retrain models
+# 4. (Optional) Retrain models
 python train_model.py
 
-# 4. Launch the app
+# 5. Launch the app
 streamlit run app.py
 ```
 
