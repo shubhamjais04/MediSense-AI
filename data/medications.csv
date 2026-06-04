@@ -1,0 +1,42 @@
+Disease,Medication_1,Medication_2,Disclaimer
+Fungal infection,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Allergy,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+GERD,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Chronic cholestasis,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Drug Reaction,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Peptic ulcer disease,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+AIDS,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Diabetes,Metformin (consult doctor),Insulin therapy as prescribed,Informational only - consult a licensed doctor before use
+Gastroenteritis,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Bronchial Asthma,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Hypertension,Antihypertensives as prescribed by doctor only,,Informational only - consult a licensed doctor before use
+Migraine,"Triptans, NSAIDs as prescribed",Avoid overuse of painkillers,Informational only - consult a licensed doctor before use
+Cervical spondylosis,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Paralysis (brain hemorrhage),Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Jaundice,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Malaria,Antimalarials prescribed by doctor only,Paracetamol for fever,Informational only - consult a licensed doctor before use
+Chicken pox,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Dengue,Paracetamol (consult doctor),ORS for hydration,Informational only - consult a licensed doctor before use
+Typhoid,Antibiotics as prescribed by doctor,Paracetamol for fever,Informational only - consult a licensed doctor before use
+hepatitis A,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Hepatitis B,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Hepatitis C,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Hepatitis D,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Hepatitis E,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Alcoholic hepatitis,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Tuberculosis,4-drug regimen as strictly prescribed by doctor,,Informational only - consult a licensed doctor before use
+Common Cold,Paracetamol for fever (consult doctor),Antihistamines for runny nose,Informational only - consult a licensed doctor before use
+Pneumonia,Antibiotics as prescribed,Cough medicine (consult doctor),Informational only - consult a licensed doctor before use
+Dimorphic hemmorhoids(piles),Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Heart attack,Emergency treatment only by medical professionals,,Informational only - consult a licensed doctor before use
+Varicose veins,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Hypothyroidism,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Hyperthyroidism,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Hypoglycemia,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Osteoarthritis,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Arthritis,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+(vertigo) Paroymsal Positional Vertigo,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Acne,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Urinary tract infection,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Psoriasis,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use
+Impetigo,Consult a licensed medical professional for appropriate medication,,Informational only - consult a licensed doctor before use

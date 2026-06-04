@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+medisense_history.db
+*.log
+.DS_Store
+Thumbs.db
+make_notebook.py
