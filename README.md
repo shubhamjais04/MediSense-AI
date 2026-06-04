@@ -10,6 +10,10 @@
 
 ---
 
+🌐 Live Demo: https://medisense-app.streamlit.app
+
+---
+
 ## 🌟 Features (11 Upgrades)
 
 | # | Feature | Description |
