@@ -214,3 +214,4 @@ Always consult a licensed healthcare professional for diagnosis and treatment.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhjais04-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhjais04)
 [![Gmail](https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=flat&logo=gmail)](mailto:shubhjais.in@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=flat&logo=github)](https://github.com/shubhamjais04)
+[![Kaggle](https://img.shields.io/badge/Kaggle-shubhamjaiswal04-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/shubhamjaiswal04)
