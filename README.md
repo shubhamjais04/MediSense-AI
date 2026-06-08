@@ -1,7 +1,6 @@
 # 🩺 MediSense AI v2.0
 
 > **AI-powered medical diagnosis and health intelligence platform**  
-> Built with Python · Streamlit · Scikit-learn · Plotly · SQLite · FPDF2
 
 ---
 
@@ -109,6 +108,8 @@ MediSense/
 ├── notebooks/
 │   └── medisense_analysis.ipynb  # Complete EDA + ML notebook (executed)
 │
+├── screenshots/                  # App screenshots
+│
 └── images/                       # Auto-generated EDA plots
     ├── disease_distribution.png
     ├── disease_symptom_heatmap.png
@@ -130,6 +131,24 @@ MediSense/
 5. 📚 **Disease Library** — Full disease encyclopedia
 6. 📡 **Model Monitor** — Live model performance tracking
 7. 🗄️ **History** — SQLite-backed diagnosis history
+
+---
+
+---
+
+## 📸 Platform Screenshots
+
+**Diagnosis & Disease Predictions:**
+![Diagnosis Predictions](screenshots/diagnosis_predictions.png)
+
+**Analytics Dashboard:**
+![Analytics Dashboard](screenshots/analytics_dashboard.png)
+
+**Model Monitoring:**
+![Model Monitoring](screenshots/model_monitoring.png)
+
+**PDF Medical Report:**
+![PDF Report](screenshots/pdf_report.png)
 
 ---
 
