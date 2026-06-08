@@ -1,12 +1,19 @@
 # 🩺 MediSense AI v2.0
 
 > **AI-powered medical diagnosis and health intelligence platform**  
-> Built with Python · Streamlit · Scikit-learn · Plotly · SQLite · FPDF2  
+> Built with Python · Streamlit · Scikit-learn · Plotly · SQLite · FPDF2
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4+-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ---
 
@@ -14,7 +21,21 @@
 
 ---
 
-## 🌟 Features (11 Upgrades)
+## 📊 Dataset Overview
+
+| File | Rows | Columns | Description |
+|------|------|---------|-------------|
+| symptoms_dataset.csv | 4,920 | 18 | Raw symptom data (Symptom_1 … Symptom_17) |
+| symptoms_binary.csv | 4,920 | 133 | Binary encoded (0/1 per symptom) |
+| disease_description.csv | 41 | 7 | Disease info + risk levels |
+| symptom_severity.csv | 132 | 2 | Symptom weight mappings |
+| precautions.csv | 41 | 5 | 4 precautions per disease |
+| diets.csv | 41 | 5 | 4 diet tips per disease |
+| medications.csv | 41 | 4 | Informational medication info |
+
+---
+
+## 🌟 Features
 
 | # | Feature | Description |
 |---|---------|-------------|
@@ -29,6 +50,18 @@
 | 9 | **SQLite Prediction History** | Full-stack persistence + CSV export |
 | 10 | **Disease Information Library** | Description, causes, prevention, recovery for all 41 diseases |
 | 11 | **Model Monitoring Panel** | Version, training date, CV accuracy, fold scores |
+
+---
+
+## 🤖 Model Performance
+
+| Model | CV Accuracy | Std Dev |
+|-------|------------|---------|
+| SVC (RBF) | ~99.7% | ±0.2% |
+| RandomForest | ~98.6% | ±0.3% |
+
+> ⚠️ High accuracy is on a synthetic dataset.  
+> Real-world performance will vary — transparently disclosed in the app.
 
 ---
 
@@ -80,10 +113,21 @@ MediSense/
     ├── severity_scoring.png
     └── per_class_accuracy.png
 ```
+---
+
+## 🖥️ Platform Pages
+
+1. 🔮 **Diagnosis** — Symptom input and top-3 prediction with confidence scores
+2. 🧠 **Explainability** — AI reasoning and symptom contribution breakdown
+3. 💊 **Medicines** — Disease-specific medicine recommendations
+4. 📄 **Reports** — PDF report generation and download
+5. 📚 **Disease Library** — Full disease encyclopedia
+6. 📡 **Model Monitor** — Live model performance tracking
+7. 🗄️ **History** — SQLite-backed diagnosis history
 
 ---
 
-## 🚀 Quick Start
+## 🚀 How to Run
 
 ```bash
 # 1. Clone the repo
@@ -103,33 +147,11 @@ python train_model.py
 
 # 5. Launch the app
 streamlit run app.py
+
 ```
+**Or visit the live demo directly**
 
----
-
-## 📊 Dataset Overview
-
-| File | Rows | Columns | Description |
-|------|------|---------|-------------|
-| symptoms_dataset.csv | 4,920 | 18 | Raw symptom data (Symptom_1 … Symptom_17) |
-| symptoms_binary.csv | 4,920 | 133 | Binary encoded (0/1 per symptom) |
-| disease_description.csv | 41 | 7 | Disease info + risk levels |
-| symptom_severity.csv | 132 | 2 | Symptom weight mappings |
-| precautions.csv | 41 | 5 | 4 precautions per disease |
-| diets.csv | 41 | 5 | 4 diet tips per disease |
-| medications.csv | 41 | 4 | Informational medication info |
-
----
-
-## 🤖 Model Performance
-
-| Model | CV Accuracy | Std Dev |
-|-------|------------|---------|
-| SVC (RBF) | ~99.7% | ±0.2% |
-| RandomForest | ~98.6% | ±0.3% |
-
-> ⚠️ High accuracy is on a synthetic dataset.  
-> Real-world performance will vary — transparently disclosed in the app.
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Click%20Here-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://medisense-app.streamlit.app)
 
 ---
 
@@ -157,5 +179,13 @@ Always consult a licensed healthcare professional for diagnosis and treatment.
 
 ## 👨‍💻 Author
 
-**Shubham Jaiswal**   
-[LinkedIn](https://linkedin.com/in/shubhjais04) · [GitHub](https://github.com/shubhamjais04)
+**Shubham Jaiswal**  
+*AI systems builder | Making intelligent diagnosis accessible to everyone, everywhere*
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhjais04)
+[![Gmail](https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=flat&logo=gmail)](mailto:shubhjais.in@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=flat&logo=github)](https://github.com/shubhamjais04)
