@@ -148,7 +148,7 @@ MediSense/
 ![Model Monitoring](screenshots/model_monitoring.png)
 
 **PDF Medical Report:**
-![PDF Report](screenshots/pdf_report.png)
+![PDF Report](screenshots/pdf_report.jpg)
 
 ---
 
