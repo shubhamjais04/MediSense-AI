@@ -21,6 +21,12 @@
 
 ---
 
+## 📌 Project Overview
+
+A full-stack AI-powered medical diagnosis platform that predicts the most likely diseases based on symptoms — delivering top-3 predictions, explainable AI insights, severity scoring, risk levels, medicine recommendations, and downloadable PDF reports through an interactive Streamlit interface
+
+---
+
 ## 📊 Dataset Overview
 
 | File | Rows | Columns | Description |
