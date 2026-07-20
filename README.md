@@ -108,6 +108,10 @@ MediSense/
 ├── notebooks/
 │   └── medisense_analysis.ipynb  # Complete EDA + ML notebook (executed)
 │
+├── powerbi/
+│   ├── dashboard_preview_medisense           
+│   ├── medisense_dashboard                        
+│
 ├── screenshots/                  # App screenshots
 │
 └── images/                       # Auto-generated EDA plots
